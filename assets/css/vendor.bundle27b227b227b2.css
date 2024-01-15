@@ -9156,13 +9156,13 @@ a.text-dark:focus {
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url(../fonts/fa-brands-400.eot);
-  src: url(../fonts/fa-brands-400d41dd41dd41d.eot?#iefix)
+  src: url(../fonts/fa-brands-400.html);
+  src: url(../fonts/fa-brands-400d41dd41dd41dd41d.html?#iefix)
       format("embedded-opentype"),
     url(../fonts/fa-brands-400.woff2) format("woff2"),
-    url(../fonts/fa-brands-400.woff) format("woff"),
-    url(../fonts/fa-brands-400.ttf) format("truetype"),
-    url(../fonts/fa-brands-400.svg#fontawesome) format("svg");
+    url(../fonts/fa-brands-401.html) format("woff"),
+    url(../fonts/fa-brands-402.html) format("truetype"),
+    url(../fonts/fa-brands-403.html#fontawesome) format("svg");
 }
 .fab {
   font-family: "Font Awesome 5 Brands";
@@ -9178,13 +9178,13 @@ a.text-dark:focus {
   font-style: normal;
   font-weight: 400;
   font-display: block;
-  src: url(../fonts/fa-regular-400.eot);
-  src: url(../fonts/fa-regular-400d41dd41dd41d.eot?#iefix)
+  src: url(../fonts/fa-regular-400.html);
+  src: url(../fonts/fa-regular-400d41dd41dd41dd41d.html?#iefix)
       format("embedded-opentype"),
-    url(../fonts/fa-regular-400.woff2) format("woff2"),
-    url(../fonts/fa-regular-400.woff) format("woff"),
-    url(../fonts/fa-regular-400.ttf) format("truetype"),
-    url(../fonts/fa-regular-400.svg#fontawesome) format("svg");
+    url(../fonts/fa-regular-401.html) format("woff2"),
+    url(../fonts/fa-regular-402.html) format("woff"),
+    url(../fonts/fa-regular-403.html) format("truetype"),
+    url(../fonts/fa-regular-404.html#fontawesome) format("svg");
 }
 .far {
   font-family: "Font Awesome 5 Free";
@@ -9201,13 +9201,13 @@ a.text-dark:focus {
   font-style: normal;
   font-weight: 900;
   font-display: block;
-  src: url(../fonts/fa-solid-900.eot);
-  src: url(../fonts/fa-solid-900d41dd41dd41d.eot?#iefix)
+  src: url(../fonts/fa-solid-900.html);
+  src: url(../fonts/fa-solid-900d41dd41dd41dd41d.html?#iefix)
       format("embedded-opentype"),
-    url(../fonts/fa-solid-900.woff2) format("woff2"),
-    url(../fonts/fa-solid-900.woff) format("woff"),
-    url(../fonts/fa-solid-900.ttf) format("truetype"),
-    url(../fonts/fa-solid-900.svg#fontawesome) format("svg");
+    url(../fonts/fa-solid-901.html) format("woff2"),
+    url(../fonts/fa-solid-902.html) format("woff"),
+    url(../fonts/fa-solid-903.html) format("truetype"),
+    url(../fonts/fa-solid-904.html#fontawesome) format("svg");
 }
 .fa,
 .fas {
@@ -14581,9 +14581,9 @@ img.mfp-img {
 
 @font-face {
   font-family: "Ikon-Crypto";
-  src: url("../fonts/Ikon-Crypto901590159015.ttf?h952os") format("truetype"),
-    url("../fonts/Ikon-Crypto901590159015.woff?h952os") format("woff"),
-    url("../fonts/Ikon-Crypto901590159015.svg?h952os#Ikon-Crypto") format("svg");
+  src: url("../fonts/Ikon-Crypto9015901590159015.html?h952os") format("truetype"),
+    url("../fonts/Ikon-Crypto9015901590159015-2.html?h952os") format("woff"),
+    url("../fonts/Ikon-Crypto9015901590159015-3.html?h952os#Ikon-Crypto") format("svg");
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -14801,12 +14801,12 @@ img.mfp-img {
 /** Themify Font @v1.0 | Author: Themify.me | License: MIT */
 @font-face {
   font-family: "themify";
-  src: url("../fonts/themify.eot");
-  src: url("../fonts/themifyd41dd41dd41d.eot?#iefix")
+  src: url("../fonts/themify.html");
+  src: url("../fonts/themifyd41dd41dd41dd41d.html?#iefix")
       format("embedded-opentype"),
-    url("../fonts/themify.woff") format("woff"),
-    url("../fonts/themify.ttf") format("truetype"),
-    url("../fonts/themifyd41dd41dd41d.svg?#themify") format("svg");
+    url("../fonts/themify-2.html") format("woff"),
+    url("../fonts/themify-3.html") format("truetype"),
+    url("../fonts/themifyd41dd41dd41dd41d-2.html?#themify") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -18274,7 +18274,7 @@ table.dataTable td {
 @font-face {
   font-family: "flexslider-icon";
   src: url("fonts/flexslider-icon.eot/index.html");
-  src: url("fonts/flexslider-icon.eot/indexd41dd41d.html?#iefix")
+  src: url("fonts/flexslider-icon.eot/indexd41dd41dd41d.html?#iefix")
       format("embedded-opentype"),
     url("fonts/flexslider-icon.woff/index.html") format("woff"),
     url("fonts/flexslider-icon.ttf/index.html") format("truetype"),

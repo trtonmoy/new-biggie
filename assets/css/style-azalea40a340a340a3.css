@@ -51,52 +51,52 @@
 /** 01. Fonts */
 @font-face {
   font-family: "Roboto";
-  src: url("../fonts/Roboto-Light.eot");
+  src: url("../fonts/Roboto-Light.html");
   src: local("Roboto Light"), local("Roboto-Light"),
-    url("../fonts/Roboto-Lightd41dd41dd41d.eot?#iefix")
+    url("../fonts/Roboto-Lightd41dd41dd41dd41d.html?#iefix")
       format("embedded-opentype"),
-    url("../fonts/Roboto-Light.woff2") format("woff2"),
-    url("../fonts/Roboto-Light.woff") format("woff"),
-    url("../fonts/Roboto-Light.ttf") format("truetype");
+    url("../fonts/Roboto-Light-2.html") format("woff2"),
+    url("../fonts/Roboto-Light-3.html") format("woff"),
+    url("../fonts/Roboto-Light-4.html") format("truetype");
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Roboto";
-  src: url("../fonts/Roboto-Regular.eot");
+  src: url("../fonts/Roboto-Regular.html");
   src: local("Roboto"), local("Roboto-Regular"),
-    url("../fonts/Roboto-Regulard41dd41dd41d.eot?#iefix")
+    url("../fonts/Roboto-Regulard41dd41dd41dd41d.html?#iefix")
       format("embedded-opentype"),
     url("../fonts/Roboto-Regular.woff2") format("woff2"),
-    url("../fonts/Roboto-Regular.woff") format("woff"),
-    url("../fonts/Roboto-Regular.ttf") format("truetype");
+    url("../fonts/Roboto-Regular-2.html") format("woff"),
+    url("../fonts/Roboto-Regular-3.html") format("truetype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Roboto";
-  src: url("../fonts/Roboto-Medium.eot");
+  src: url("../fonts/Roboto-Medium.html");
   src: local("Roboto Medium"), local("Roboto-Medium"),
-    url("../fonts/Roboto-Mediumd41dd41dd41d.eot?#iefix")
+    url("../fonts/Roboto-Mediumd41dd41dd41dd41d.html?#iefix")
       format("embedded-opentype"),
-    url("../fonts/Roboto-Medium.woff2") format("woff2"),
-    url("../fonts/Roboto-Medium.woff") format("woff"),
-    url("../fonts/Roboto-Medium.ttf") format("truetype");
+    url("../fonts/Roboto-Medium-2.html") format("woff2"),
+    url("../fonts/Roboto-Medium-3.html") format("woff"),
+    url("../fonts/Roboto-Medium-4.html") format("truetype");
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: "Roboto";
-  src: url("../fonts/Roboto-Bold.eot");
+  src: url("../fonts/Roboto-Bold.html");
   src: local("Roboto Bold"), local("Roboto-Bold"),
-    url("../fonts/Roboto-Boldd41dd41dd41d.eot?#iefix")
+    url("../fonts/Roboto-Boldd41dd41dd41dd41d.html?#iefix")
       format("embedded-opentype"),
-    url("../fonts/Roboto-Bold.woff2") format("woff2"),
-    url("../fonts/Roboto-Bold.woff") format("woff"),
-    url("../fonts/Roboto-Bold.ttf") format("truetype");
+    url("../fonts/Roboto-Bold-2.html") format("woff2"),
+    url("../fonts/Roboto-Bold-3.html") format("woff"),
+    url("../fonts/Roboto-Bold-4.html") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
@@ -2517,13 +2517,13 @@ h6,
 .nk-df-shape-i,
 .shape-i:after,
 .shape-i-bg {
-  background-image: url(../images/shape-i.png);
+  background-image: url(../images/shape-i.html);
 }
 
 .nk-df-shape-i-sm,
 .shape-i-sm:after,
 .shape-i-sm-bg {
-  background-image: url(../images/shape-i-sm.png);
+  background-image: url(../images/shape-i-sm.html);
 }
 
 .nk-df-shape-m,
@@ -10443,7 +10443,7 @@ hr + .nk-block {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: url(../images/dot-c-azalea.png) no-repeat;
+  background: url(../images/dot-c-azalea.html) no-repeat;
   background-size: contain;
   background-position: 50% 50%;
 }
